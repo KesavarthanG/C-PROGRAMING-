@@ -24,7 +24,7 @@ int main()
 			}
 		}
 	}
-	printf("IN SORTED:")
+	printf("IN SORTED:");
 	for(i=0;i<n;i++)
 	{
 		printf("%s\n",str[i]);
